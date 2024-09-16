@@ -299,3 +299,135 @@
   font-size: 12px;
   margin-bottom: 20px;
 }
+
+/* #nextSection */
+
+.div-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 135%;
+  background-image: url("Images/bg.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding: 10%;
+  padding-top: 13%;
+  /* padding-bottom: 20%; */
+}
+
+.div-51 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.div-512 {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+#world-img {
+  height: 100%;
+  width: 100%;
+  padding-bottom: 50%;
+}
+
+.text-10 {
+  color: white;
+  font-weight: 600;
+  font-size: 40px;
+  margin-top: -8%;
+  text-align: start;
+  margin-bottom: 10%;
+  padding-left: 10%;
+}
+
+.text-11 {
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: start;
+  margin-bottom: 10%;
+  padding-left: 10%;
+}
+
+.div-52 {
+  background-color: white;
+  height: 80%;
+  width: 100%;
+  margin-top: -20%;
+  margin-bottom: -20%;
+  /* border-radius: 10px; */
+  /* border: 1px solid black; */
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.div-522 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f4f5;
+  height: 20%;
+  width: 100%;
+  /* border-radius: 10px; */
+  /* border: 1px solid #00756a; */
+}
+
+.img-3 {
+  background-color: #f2f4f5;
+}
+
+.div-521 {
+  /* background-color: rgb(255, 2, 2); */
+  height: 80%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div-5211 {
+  width: 50%;
+  text-align: center;
+  font-size: 34px;
+  font-weight: 700;
+  color: #4d52b1;
+  padding: 10%;
+  /* border-right: 2px dashed black; */
+}
+
+.border {
+  height: 80%;
+  width: 2px;
+  background-color: black;
+}
+
+.div-5212 {
+  width: 50%;
+  text-align: start;
+  font-size: 20px;
+  padding-right: 10%;
+  padding-left: 3%;
+}
+
+.div-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  /* background-color: #00756a; */
+  padding: 10%;
+  padding-top: 18%;
+}
